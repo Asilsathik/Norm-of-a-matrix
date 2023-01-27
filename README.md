@@ -49,12 +49,12 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![bjj](https://user-images.githubusercontent.com/118679646/214812482-27e88473-2457-493c-98d0-fc1a1598b4c0.png)
+![bjj](https://github.com/praveenst13/Norm-of-a-matrix/raw/main/s.png)
 ### 2-Norm of a Matrix
-![bjp](https://user-images.githubusercontent.com/118679646/214812823-e8755006-a67d-456e-a377-f25df1e14c93.png)
+![bjp](https://github.com/praveenst13/Norm-of-a-matrix/raw/main/ss.png)
 
 ### Infinity Norm of a Matrix
-![bbn](https://user-images.githubusercontent.com/118679646/214813058-214c536f-0781-4b96-8185-bbfe23cbbfc7.png)
+![bbn](https://github.com/praveenst13/Norm-of-a-matrix/raw/main/sss.png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
